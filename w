@@ -58,8 +58,8 @@ local function KYZKD_fake_script()
         loadingGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
         
         for i = 1, 5 do
-            loadingText.Text = "Loading Script " .. i .. "/5"
-            wait(100)
+            loadingText.Text = "Loading Script " .. i .. "/8"
+            wait(15)
         end
     end
 end
